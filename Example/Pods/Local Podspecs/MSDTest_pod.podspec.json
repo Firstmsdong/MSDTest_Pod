@@ -1,0 +1,22 @@
+{
+  "name": "MSDTest_pod",
+  "version": "0.0.1",
+  "summary": "自己创建的私有库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Firstmsdong/MSDTest_pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Firstmsdong": "first_msdong@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Firstmsdong/MSDTest_pod.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MSDTest_pod/Classes/**/*"
+}
