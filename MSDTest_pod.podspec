@@ -24,14 +24,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
   #这里填写可以访问到的地址，不然验证不通过
-  s.homepage         = 'https://github.com/Firstmsdong/MSDTest_pod'
+  s.homepage         = 'https://github.com/Firstmsdong/MSDTest_Pod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   #开源协议
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   #作者信息
   s.author           = { 'Firstmsdong' => 'first_msdong@163.com' }
   #远程私有代码库地址，这里不支持ssh地址，验证不通过，只支持Http和https 最好使用https
-  s.source           = { :git => 'https://github.com/Firstmsdong/MSDTest_pod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Firstmsdong/MSDTest_Pod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   #支持的平台及版本
   s.ios.deployment_target = '9.0'
